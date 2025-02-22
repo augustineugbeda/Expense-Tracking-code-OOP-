@@ -48,11 +48,11 @@ cd Expense-Tracking-code-OOP
 ```
 
 
-2 Manual Download
-Visit the repository URL
-Click "Code" > "Download ZIP"
-Extract the ZIP file to your desired location
-Navigate to the extracted folder
+2. Manual Download
+   - Visit the repository URL
+   - Click "Code" > "Download ZIP"
+   - Extract the ZIP file to your desired location
+   - Navigate to the extracted folder
 
 ### How to Run the Code
 ## Basic Execution
