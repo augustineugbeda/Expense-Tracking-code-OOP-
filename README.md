@@ -57,10 +57,10 @@ Navigate to the extracted folder
 ### How to Run the Code
 ## Basic Execution
 Ensure Python is installed on your system:
-bash
-```python --version
+```bash
+python --version
 ```
 ## Run the script directly:
-bash
-```python Expense_ExpenseDatabase.py
+```bash
+python Expense_ExpenseDatabase.py
 ```
